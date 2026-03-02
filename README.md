@@ -12,7 +12,7 @@ Gboard and your text now reaches the Windows host.
 - Regular typing unchanged
 
 ## Download
-[Latest APK](builds/artemis-debug.apk) — installs alongside stock Moonlight
+[Latest APK](builds/artemis.apk) — installs alongside stock Moonlight
 
 ---
 *Below: original Moonlight documentation*
