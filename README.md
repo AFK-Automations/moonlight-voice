@@ -1,3 +1,22 @@
+# Artemis
+### A Moonlight fork with voice dictation support
+
+Artemis fixes Android IME text input (voice dictation, swipe typing,
+autocomplete) which is silently dropped in stock Moonlight. Speak into
+Gboard and your text now reaches the Windows host.
+
+## What's fixed
+- Gboard voice-to-text works through Sunshine/Moonlight streams
+- Swipe typing commits properly
+- Autocomplete suggestions land on the host
+- Regular typing unchanged
+
+## Download
+[Latest APK](builds/artemis-debug.apk) — installs alongside stock Moonlight
+
+---
+*Below: original Moonlight documentation*
+
 # Moonlight Android
 
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/232a8tadrrn8jv0k/branch/master?svg=true)](https://ci.appveyor.com/project/cgutman/moonlight-android/branch/master)
